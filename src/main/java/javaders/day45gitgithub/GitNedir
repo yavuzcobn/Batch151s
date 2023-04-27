@@ -1,0 +1,8 @@
+  /*Git - Github nedir?
+    Git versiyon kontrol sistemi iken,  Github bu sistemi kullanan depolama servisleri denilebilir.
+    1-Yazilim-uygulama gelistirme devam eden bir surectir. Tek seferde oldu bitti diyemeyiz.
+    Tamamlandiktan sonra bile guncelleme-bakim ihtiyaci hasil olabilir.Uygulamanin guncellemedeki herbir asamasina versiyon denilir.
+    Versiyonlarin kontrol ve takibini "Git" ile yapariz.
+
+    2-Versiyon kontrolunu yaptigimiz projemizi bulut sisteminde de depolamak istersek de "Github" kullaniriz.
+    Performans olarak daha hizli oldugu icin genellikle  "Github" kullanilir lakin bunlarin haricinde de depolama servisleri mevcuttur.

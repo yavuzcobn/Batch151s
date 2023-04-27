@@ -20,7 +20,8 @@ package javaders.day24inheritancepolymorphism;
      */
 
 
-public class Car {
+public class
+        Car {
 
     public void move(){
         System.out.println("Cars move...");
